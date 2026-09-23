@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# LLM Cost Optimizer
 
-**llm-cost-optimizer** is part of the Zion Tech Group app network (630+ apps).
+Optimize LLM spend and token usage.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
+- Related: [llm-cost-calculator](https://github.com/Zion-support/llm-cost-calculator) · [zion-llm-cost-calculator](https://github.com/Zion-support/zion-llm-cost-calculator) · [zion-ai-finops](https://github.com/Zion-support/zion-ai-finops) · [token-context-calculator](https://github.com/Zion-support/token-context-calculator) · [zion-ai-prompt-router](https://github.com/Zion-support/zion-ai-prompt-router)
 
-## Related apps
-- [llm-cost-calculator](https://github.com/Zion-support/llm-cost-calculator) — LLM cost calculator
-- [zion-ai-finops](https://github.com/Zion-support/zion-ai-finops) — LLM cost and token optimization
-- [llm-gateway](https://github.com/Zion-support/llm-gateway) — Smart model routing, caching & failover
-- [zion-model-router](https://github.com/Zion-support/zion-model-router) — Routing rules configurator
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
